@@ -4,7 +4,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/MacroYing/edoOS?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/MacroYing/edoOS?style=for-the-badge)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed/MacroYing/edoOS?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/MacroYing/edoOS?style=for-the-badge)
+![GitHub License](https://img.shields.io/badge/GPL-3.0.svg)
 ![GitHub top language](https://img.shields.io/github/languages/top/MacroYing/edoOS?style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/MacroYing/edoOS?style=for-the-badge)
 ![GitHub Release](https://img.shields.io/github/v/release/MacroYing/edoOS?include_prereleases&style=for-the-badge)
