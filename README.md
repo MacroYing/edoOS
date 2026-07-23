@@ -7,7 +7,7 @@
 ![GitHub License](https://img.shields.io/github/license/MacroYing/edoOS?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/MacroYing/edoOS?style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/MacroYing/edoOS?style=for-the-badge)
-![GitHub Release](https://img.shields.io/github/v/release/MacroInch/edoOS?style=for-the-badge)
+![GitHub Release](https://img.shields.io/github/v/release/MacroYing/edoOS?include_prereleases&style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/MacroYing/edoOS?style=for-the-badge)
 
 ## 开发目标
