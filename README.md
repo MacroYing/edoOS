@@ -2,6 +2,13 @@
 基于 Microsoft PowerPoint 开发的仿真操作系统。
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/MacroYing/edoOS?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/MacroYing/edoOS?style=for-the-badge)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed/MacroYing/edoOS?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/MacroYing/edoOS?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/MacroYing/edoOS?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/MacroYing/edoOS?style=for-the-badge)
+![GitHub Release](https://img.shields.io/github/v/release/MacroInch/edoOS?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/MacroYing/edoOS?style=for-the-badge)
 
 ## 开发目标
 以下目标将会在 edoOS 26.1 的开发进程中逐步实现。
